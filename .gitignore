@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data outputs
+data/bronze/
+data/silver/
+data/raw/
+data/processed/
+data/stream_inbox/
+warehouse/   # keep only if runtime
+
+# Logs & artifacts
+logs/
+artifacts/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.pem
